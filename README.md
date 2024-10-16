@@ -3,4 +3,4 @@ Tables and results obtained after training different classification models with 
 
 Name structure is
 
-<dataset>_<m-parameter>_<cp=usp>_
+[dataset]_<m-parameter>_<cp=usp>_
