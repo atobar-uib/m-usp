@@ -1,0 +1,20 @@
+Session: untitled,,,,,,,
+Training Data: abalon_all_4_ord_sample_cp_generalized_True    Observations: 3000,,,,,,,
+"Predictors: 8    Predictor Names: Sex, Length, Diameter, Height, Whole_weight, Shucked_weight, Viscera_weight, Shell_weight",,,,,,,
+"Response Name: Class    Response Classes: 10    Response Class Names: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9",,,,,,,
+Validation: 5-fold cross-validation,,,,,,,
+Test Data: abalon_test    Observations: 1197,,,,,,,
+,,,,,,,
+,,,,,,,
+Favorite,Model Number,Model Type,Status,Accuracy % (Validation),Total Cost (Validation),Accuracy % (Test),Total Cost (Test)
+0,2.1,Tree,Tested,21.8,2346,25.4180602006689,892
+0,2.2,Tree,Tested,22.2,2334,27.0903010033445,872
+0,2.3,Tree,Tested,20.3333333333333,2390,24.247491638796,906
+0,2.4,KNN,Tested,18.2,2454,21.7391304347826,936
+0,2.5,KNN,Tested,22.3666666666667,2329,26.1705685618729,883
+0,2.6,KNN,Tested,23.8333333333333,2285,28.0100334448161,861
+0,2.7,KNN,Tested,21.5666666666667,2353,27.0066889632107,873
+0,2.8,KNN,Tested,21.4333333333333,2357,26.2541806020067,882
+0,2.9,KNN,Tested,21.2,2364,25.2508361204013,894
+0,2.10,Efficient Logistic Regression,Tested,21.0333333333333,2369,28.5953177257525,854
+0,2.11,Efficient Linear SVM,Tested,20.3333333333333,2390,25.5016722408027,891

@@ -1,0 +1,20 @@
+Session: untitled,,,,,,,
+Training Data: obesity_all_4_generalized_True    Observations: 1500,,,,,,,
+"Predictors: 7    Predictor Names: Gender, Age, Height, Weight, NCP, CH2O, FAF",,,,,,,
+"Response Name: NObeyesdad    Response Classes: 7    Response Class Names: 0, 1, 2, 3, 4, 5, 6",,,,,,,
+Validation: 5-fold cross-validation,,,,,,,
+Test Data: obesity_test    Observations: 625,,,,,,,
+,,,,,,,
+,,,,,,,
+Favorite,Model Number,Model Type,Status,Accuracy % (Validation),Total Cost (Validation),Accuracy % (Test),Total Cost (Test)
+0,2.1,Tree,Tested,46.5333333333333,802,89.76,64
+0,2.2,Tree,Tested,46,810,72.8,170
+0,2.3,Tree,Tested,33.5333333333333,997,52.96,294
+0,2.4,KNN,Tested,39.6,906,80.96,119
+0,2.5,KNN,Tested,40.2,897,71.84,176
+0,2.6,KNN,Tested,38.3333333333333,925,61.12,243
+0,2.7,KNN,Tested,41.8666666666667,872,73.92,163
+0,2.8,KNN,Tested,39.7333333333333,904,71.2,180
+0,2.9,KNN,Tested,39.2,912,79.2,130
+0,2.10,Efficient Logistic Regression,Tested,36.2,957,57.76,264
+0,2.11,Efficient Linear SVM,Tested,44.0666666666667,839,74.24,161

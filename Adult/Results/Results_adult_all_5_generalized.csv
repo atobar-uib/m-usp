@@ -1,0 +1,20 @@
+Session: untitled,,,,,,,
+Training Data: adult_all_5_generalized_True    Observations: 10000,,,,,,,
+"Predictors: 4    Predictor Names: age, educational_num, gender, income",,,,,,,
+"Response Name: occupation    Response Classes: 14    Response Class Names: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13",,,,,,,
+Validation: 5-fold cross-validation,,,,,,,
+Test Data: adult_test    Observations: 36053,,,,,,,
+,,,,,,,
+,,,,,,,
+Favorite,Model Number,Model Type,Status,Accuracy % (Validation),Total Cost (Validation),Accuracy % (Test),Total Cost (Test)
+0,2.1,Tree,Tested,20.82,7918,27.6343161456744,26090
+0,2.2,Tree,Tested,21.16,7884,30.9599755914903,24891
+0,2.3,Tree,Tested,21.38,7862,29.1376584472859,25548
+0,2.4,KNN,Tested,10.7,8930,22.5806451612903,27912
+0,2.5,KNN,Tested,15.05,8495,27.8423432169306,26015
+0,2.6,KNN,Tested,21.88,7812,31.0320916428591,24865
+0,2.7,KNN,Tested,15.8,8420,27.5705211771559,26113
+0,2.8,KNN,Tested,15.16,8484,27.7674534712784,26042
+0,2.9,KNN,Tested,11.9,8810,27.3819099658836,26181
+0,2.10,Efficient Logistic Regression,Tested,22.42,7758,30.4939949518764,25059
+0,2.11,Efficient Linear SVM,Tested,22.64,7736,30.4939949518764,25059
