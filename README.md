@@ -3,7 +3,7 @@ Tables and results obtained after training different classification models with 
 
 Name structure 
 
-(NAME)_test -> test data of obesity dataset
+(NAME)_test -> test data of (NAME) dataset
 
 (NAME)1_(N)_(S) -> 1st raw data of (NAME) dataset, size N rows, S shared tuples
 
